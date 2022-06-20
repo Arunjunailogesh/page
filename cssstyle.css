@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+}
+
+
+.top{
+
+  height: 2000px;
+  width: 2000px;
+  background-color: #E4F9F5;
+
+
+}
+
+
+
+.haritha{
+  margin:0;
+
+  position: absolute;
+  font-family:cursive;
+  font-size: 80px;
+  bottom:100px;
+  left:900px;
+}
+
+.pics{
+  position: absolute;
+  border-radius: 10px;
+  top: 50px;
+
+
+}
+
+.pradhipa{
+  margin:0;
+
+  position: absolute;
+  font-family:cursive;
+  font-size: 80px;
+  top: 580px;
+  left:900px;
+
+
+
+
+}
+
+
+.arun{
+  position: absolute;
+  font-family:cursive;
+  font-size: 80px;
+
+  left:900px;
+
+}
